@@ -1,7 +1,7 @@
 
   Pod::Spec.new do |s|
     s.name = 'CapacitorNavigationbar'
-    s.version = '0.0.1'
+    s.version = '0.0.2'
     s.summary = 'Provides methods to customize the navigation bar on crossplatform apps built with capacitor'
     s.license = 'MIT'
     s.homepage = 'git@github.com:nikosdouvlis/capacitor-navigationbar.git'
